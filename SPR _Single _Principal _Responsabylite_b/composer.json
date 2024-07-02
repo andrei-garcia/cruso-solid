@@ -1,0 +1,15 @@
+{
+    "name": "admin/curso-solid",
+    "autoload": {
+        "psr-4": {
+            "Admin\\CursoSolid\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrei sendspeed",
+            "email": "andrei.garcia@externo.sendspeed.com"
+        }
+    ],
+    "require": {}
+}

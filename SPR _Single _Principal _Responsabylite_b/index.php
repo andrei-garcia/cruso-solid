@@ -4,9 +4,9 @@ require_once __DIR__ . '/vendor/autoload.php';
 
 use \Admin\CursoSolid\CarrinhoCompras;
 
+echo 'Projeto com SRP: <BR/>';
 
 $carrinho1 = new CarrinhoCompras();
-echo 'Projeto SEM SRP: <BR/>';
 
 print_r($carrinho1->exibirItens());
 echo 'Valor total: '.$carrinho1->exibirValorTotal();
