@@ -2,10 +2,9 @@
 
 namespace Admin\CursoSolid;
 
-
 class EmailService
 {
-    public function enviarEmailConfirmacao() {
+    public static function enviarEmailConfirmacao() {
         echo '<br/>.... envia e-mail de confirmação ...<br/>';
     }
 }
