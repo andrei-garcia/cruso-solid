@@ -1,0 +1,3 @@
+teste arquivo txt
+mais uma linha
+arquivo escrito em txt
