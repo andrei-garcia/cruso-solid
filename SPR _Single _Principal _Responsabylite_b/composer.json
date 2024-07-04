@@ -11,5 +11,7 @@
             "email": "andrei.garcia@externo.sendspeed.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^11.2"
+    }
 }
